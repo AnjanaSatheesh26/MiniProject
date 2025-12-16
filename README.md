@@ -1,6 +1,6 @@
 # MiniProject
 Mini project:Clickbait extension
-# Clickbait Detection Browser Extension with Explainable AI
+## Clickbait Detection Browser Extension with Explainable AI
 
 ## 📌 Project Overview
 This project is a browser extension (Chrome/Firefox) that automatically detects clickbait headlines across platforms such as YouTube, news websites, blogs, and social media feeds. It uses Natural Language Processing (NLP) models to classify headlines as clickbait or non-clickbait and provides transparent, user-friendly explanations for each prediction.
