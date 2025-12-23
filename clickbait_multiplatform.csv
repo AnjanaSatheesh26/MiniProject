@@ -1,0 +1,302 @@
+headline,label,category,explanation_tokens,platform,title
+New Technology Aims to Improve Startup Efficiency,0,none,,news_blog_social,
+,0,none,,YouTube,Beginner Friendly Students Course
+,1,shock_value,Startup|Python,YouTube,Top 5 Python Videos You Must Watch!
+,0,none,,YouTube,Cybersecurity Review and Performance Test
+,1,curiosity_gap,AI|Gaming,YouTube,This Machine Learning Trick Went Viral Overnight!
+,0,none,,YouTube,Beginner Friendly Machine Learning Course
+,0,none,,YouTube,Beginner Friendly Engineer Course
+,1,exaggeration,Health|Machine Learning,YouTube,Everyone Is Talking About This Python!
+,0,none,,YouTube,Data Science Explained in 10 Minutes
+,1,exaggeration,Engineer|Kerala,YouTube,The Truth About Engineer Finally Revealed!
+,0,none,,YouTube,Beginner Friendly Startup Course
+,1,shock_value,Health|AI,YouTube,This Technology Experiment Shocked Everyone!
+,0,none,,YouTube,Complete Guide to Web Development
+,0,none,,YouTube,Cybersecurity Project Explanation
+,1,emotional,Engineer|Startup,YouTube,People Are Shocked After Watching This Web Development!
+,1,curiosity_gap,Machine Learning|Cybersecurity,YouTube,People Are Shocked After Watching This Technology!
+,1,emotional,Students|Web Development,YouTube,I Tried Kerala And THIS Happened!
+,1,exaggeration,Cybersecurity|Machine Learning,YouTube,Everyone Is Talking About This Technology!
+,1,shock_value,Students|Web Development,YouTube,I Tried Cybersecurity And THIS Happened!
+,0,none,,YouTube,Cybersecurity Explained in 10 Minutes
+,1,shock_value,Engineer|Python,YouTube,You Won't Believe This Startup Video!
+,0,none,,YouTube,Python Basics for Students
+,0,none,,YouTube,Students Tutorial for Beginners
+,0,none,,YouTube,Startup Explained in 10 Minutes
+,0,none,,YouTube,Complete Guide to Health
+,1,misleading_number,AI|Web Development,YouTube,I Tried Gaming And THIS Happened!
+,0,none,,YouTube,AI Analysis with Real Examples
+,1,emotional,Cybersecurity|Mobile,YouTube,I Tried Technology And THIS Happened!
+,1,exaggeration,Web Development|Engineer,YouTube,Everyone Is Talking About This Machine Learning!
+,1,shock_value,Finance|Data Science,YouTube,You Will Regret Missing This Students Video!
+,1,shock_value,Kerala|Web Development,YouTube,Everyone Is Talking About This Data Science!
+,1,shock_value,Data Science|Startup,YouTube,You Will Regret Missing This Health Video!
+,1,misleading_number,Finance|Kerala,YouTube,The Truth About Machine Learning Finally Revealed!
+,1,curiosity_gap,Cybersecurity|Startup,YouTube,Top 5 Cybersecurity Videos You Must Watch!
+,0,none,,YouTube,Gaming Project Explanation
+,1,exaggeration,Cybersecurity|Gaming,YouTube,This Cybersecurity Video Is Breaking The Internet!
+,0,none,,YouTube,How Technology Works Step by Step
+,0,none,,YouTube,Gaming Tutorial for Beginners
+,1,exaggeration,Gaming|Engineer,YouTube,You Won't Believe This Mobile Video!
+,1,emotional,Startup|Kerala,YouTube,The Truth About Health Finally Revealed!
+,0,none,,YouTube,Data Science Basics for Students
+,1,misleading_number,Kerala|Data Science,YouTube,People Are Shocked After Watching This Engineer!
+,1,shock_value,Startup|Web Development,YouTube,People Are Shocked After Watching This Gaming!
+,1,misleading_number,Technology|Cybersecurity,YouTube,This Data Science Trick Went Viral Overnight!
+,1,curiosity_gap,Cybersecurity|Machine Learning,YouTube,This Health Trick Went Viral Overnight!
+,1,misleading_number,Gaming|Kerala,YouTube,This Python Trick Went Viral Overnight!
+,0,none,,YouTube,Web Development Review and Performance Test
+,0,none,,YouTube,Mobile Project Explanation
+,1,emotional,Finance|Startup,YouTube,This Web Development Experiment Shocked Everyone!
+,0,none,,YouTube,Machine Learning Project Explanation
+,1,exaggeration,Engineer|Students,YouTube,This Mobile Experiment Shocked Everyone!
+,0,none,,YouTube,Engineer Demo and Walkthrough
+,0,none,,YouTube,Beginner Friendly Technology Course
+,0,none,,YouTube,Engineer Analysis with Real Examples
+,0,none,,YouTube,How Data Science Works Step by Step
+,1,misleading_number,AI|Cybersecurity,YouTube,Everyone Is Talking About This Mobile!
+,1,exaggeration,Health|Finance,YouTube,People Are Shocked After Watching This Python!
+,0,none,,YouTube,Finance Tutorial for Beginners
+,0,none,,YouTube,Startup Analysis with Real Examples
+,0,none,,YouTube,Complete Guide to AI
+,0,none,,YouTube,Python Tutorial for Beginners
+,1,shock_value,Finance|Health,YouTube,You Won't Believe This Web Development Video!
+,0,none,,YouTube,Machine Learning Explained in 10 Minutes
+,1,exaggeration,Machine Learning|Engineer,YouTube,This Gaming Trick Went Viral Overnight!
+,0,none,,YouTube,Beginner Friendly AI Course
+,0,none,,YouTube,Cybersecurity Demo and Walkthrough
+,0,none,,YouTube,Data Science Demo and Walkthrough
+,1,curiosity_gap,Students|AI,YouTube,You Will Regret Missing This Gaming Video!
+,1,misleading_number,Finance|Python,YouTube,I Tried Web Development And THIS Happened!
+,0,none,,YouTube,Python Review and Performance Test
+,0,none,,YouTube,Startup Project Explanation
+,0,none,,YouTube,Complete Guide to Cybersecurity
+,0,none,,YouTube,Complete Guide to Technology
+,1,shock_value,Finance|AI,YouTube,The Truth About Kerala Finally Revealed!
+,1,misleading_number,AI|Engineer,YouTube,This Startup Trick Went Viral Overnight!
+,0,none,,YouTube,Gaming Analysis with Real Examples
+,0,none,,YouTube,Kerala Demo and Walkthrough
+,1,exaggeration,Engineer|Web Development,YouTube,You Will Regret Missing This Machine Learning Video!
+,1,exaggeration,Web Development|Startup,YouTube,The Truth About Gaming Finally Revealed!
+,0,none,,YouTube,Data Science Analysis with Real Examples
+,0,none,,YouTube,Startup Basics for Students
+,1,exaggeration,Gaming|Web Development,YouTube,Everyone Is Talking About This Finance!
+,0,none,,YouTube,Finance Basics for Students
+,0,none,,YouTube,How Startup Works Step by Step
+,1,exaggeration,Web Development|Finance,YouTube,Everyone Is Talking About This Web Development!
+,1,shock_value,Python|Mobile,YouTube,The Truth About Students Finally Revealed!
+,1,shock_value,Data Science|Python,YouTube,This Health Video Is Breaking The Internet!
+,0,none,,YouTube,Mobile Tutorial for Beginners
+,1,exaggeration,Startup|Mobile,YouTube,This Kerala Trick Went Viral Overnight!
+,1,shock_value,Engineer|Mobile,YouTube,This Mobile Trick Went Viral Overnight!
+,1,curiosity_gap,Startup|Kerala,YouTube,You Won't Believe This Finance Video!
+,1,curiosity_gap,Machine Learning|Students,YouTube,You Won't Believe This Cybersecurity Video!
+,1,shock_value,AI|Python,YouTube,People Are Shocked After Watching This Students!
+,1,emotional,Mobile|Kerala,YouTube,This Technology Trick Went Viral Overnight!
+,1,shock_value,Finance|Gaming,YouTube,I Tried Finance And THIS Happened!
+,0,none,,YouTube,Startup Tutorial for Beginners
+,0,none,,YouTube,Complete Guide to Mobile
+,0,none,,YouTube,Health Basics for Students
+,1,misleading_number,AI|Finance,YouTube,People Are Shocked After Watching This Data Science!
+,1,curiosity_gap,Gaming|Web Development,YouTube,Top 5 Web Development Videos You Must Watch!
+,1,misleading_number,Finance|Machine Learning,YouTube,You Will Regret Missing This Engineer Video!
+,0,none,,YouTube,Beginner Friendly Finance Course
+,0,none,,YouTube,How Finance Works Step by Step
+,0,none,,YouTube,Beginner Friendly Gaming Course
+,1,emotional,Startup|Cybersecurity,YouTube,This Finance Trick Went Viral Overnight!
+,0,none,,YouTube,How Gaming Works Step by Step
+,0,none,,YouTube,Technology Project Explanation
+,1,exaggeration,Mobile|AI,YouTube,Top 5 Machine Learning Videos You Must Watch!
+,0,none,,YouTube,Machine Learning Demo and Walkthrough
+,0,none,,YouTube,Engineer Project Explanation
+,1,shock_value,Python|Kerala,YouTube,People Are Shocked After Watching This Machine Learning!
+,0,none,,YouTube,Web Development Tutorial for Beginners
+,0,none,,YouTube,Finance Project Explanation
+,1,shock_value,Mobile|Cybersecurity,YouTube,This Gaming Video Is Breaking The Internet!
+,1,shock_value,Engineer|Startup,YouTube,This Machine Learning Video Is Breaking The Internet!
+,1,exaggeration,Startup|Web Development,YouTube,This AI Trick Went Viral Overnight!
+,0,none,,YouTube,Students Explained in 10 Minutes
+,1,curiosity_gap,Technology|Finance,YouTube,This Data Science Experiment Shocked Everyone!
+,0,none,,YouTube,Health Analysis with Real Examples
+,1,shock_value,Web Development|Python,YouTube,This Python Video Is Breaking The Internet!
+,1,shock_value,Machine Learning|Kerala,YouTube,This Python Experiment Shocked Everyone!
+,1,misleading_number,Technology|Engineer,YouTube,People Are Shocked After Watching This Health!
+,1,emotional,AI|Machine Learning,YouTube,The Truth About Web Development Finally Revealed!
+,0,none,,YouTube,Complete Guide to Kerala
+,1,curiosity_gap,Gaming|Engineer,YouTube,I Tried Python And THIS Happened!
+,1,emotional,Mobile|Gaming,YouTube,Top 5 Gaming Videos You Must Watch!
+,0,none,,YouTube,Complete Guide to Gaming
+,0,none,,YouTube,Data Science Tutorial for Beginners
+,0,none,,YouTube,How Health Works Step by Step
+,0,none,,YouTube,Kerala Analysis with Real Examples
+,0,none,,YouTube,How Python Works Step by Step
+,0,none,,YouTube,Gaming Review and Performance Test
+,1,misleading_number,Engineer|Health,YouTube,Everyone Is Talking About This Students!
+,0,none,,YouTube,Machine Learning Basics for Students
+,0,none,,YouTube,Finance Review and Performance Test
+,1,shock_value,Kerala|AI,YouTube,People Are Shocked After Watching This AI!
+,0,none,,YouTube,Beginner Friendly Web Development Course
+,0,none,,YouTube,Python Analysis with Real Examples
+,1,shock_value,Data Science|Finance,YouTube,This Web Development Trick Went Viral Overnight!
+,1,emotional,Finance|Python,YouTube,You Will Regret Missing This Kerala Video!
+,0,none,,YouTube,Web Development Explained in 10 Minutes
+,0,none,,YouTube,Finance Analysis with Real Examples
+,1,curiosity_gap,Students|Web Development,YouTube,Everyone Is Talking About This Cybersecurity!
+,1,emotional,Kerala|AI,YouTube,The Truth About Technology Finally Revealed!
+,1,emotional,Students|Students,YouTube,You Will Regret Missing This Finance Video!
+,0,none,,YouTube,Students Analysis with Real Examples
+,1,exaggeration,Mobile|Gaming,YouTube,This Health Experiment Shocked Everyone!
+,0,none,,YouTube,Beginner Friendly Mobile Course
+,1,misleading_number,Kerala|Python,YouTube,You Won't Believe This Kerala Video!
+,1,emotional,Machine Learning|Students,YouTube,You Will Regret Missing This Mobile Video!
+,1,emotional,Students|Python,YouTube,You Won't Believe This Technology Video!
+,0,none,,YouTube,How Students Works Step by Step
+,0,none,,YouTube,Cybersecurity Tutorial for Beginners
+,1,misleading_number,Mobile|Cybersecurity,YouTube,The Truth About Finance Finally Revealed!
+,1,misleading_number,Data Science|Engineer,YouTube,Top 5 Data Science Videos You Must Watch!
+,1,curiosity_gap,Web Development|Health,YouTube,Everyone Is Talking About This AI!
+,0,none,,YouTube,Machine Learning Analysis with Real Examples
+,0,none,,YouTube,Startup Demo and Walkthrough
+,1,emotional,AI|Gaming,YouTube,You Will Regret Missing This Technology Video!
+,0,none,,YouTube,Health Demo and Walkthrough
+,0,none,,YouTube,How Machine Learning Works Step by Step
+,0,none,,YouTube,AI Demo and Walkthrough
+,1,exaggeration,Gaming|AI,YouTube,You Won't Believe This Python Video!
+,1,shock_value,Technology|Data Science,YouTube,The Truth About Data Science Finally Revealed!
+,0,none,,YouTube,Kerala Tutorial for Beginners
+,1,exaggeration,Finance|Web Development,YouTube,This Engineer Experiment Shocked Everyone!
+,1,emotional,Web Development|Data Science,YouTube,This AI Experiment Shocked Everyone!
+,1,shock_value,Web Development|Python,YouTube,You Will Regret Missing This Python Video!
+,0,none,,YouTube,How Kerala Works Step by Step
+,0,none,,YouTube,AI Explained in 10 Minutes
+,0,none,,YouTube,How Engineer Works Step by Step
+,1,exaggeration,Mobile|Finance,YouTube,You Will Regret Missing This Startup Video!
+,0,none,,YouTube,AI Review and Performance Test
+,0,none,,YouTube,Machine Learning Tutorial for Beginners
+,0,none,,YouTube,How Web Development Works Step by Step
+,0,none,,YouTube,Machine Learning Review and Performance Test
+,0,none,,YouTube,Startup Review and Performance Test
+,1,curiosity_gap,AI|Web Development,YouTube,This Startup Experiment Shocked Everyone!
+,0,none,,YouTube,Complete Guide to Finance
+,0,none,,YouTube,Web Development Analysis with Real Examples
+,1,misleading_number,Engineer|Kerala,YouTube,This Kerala Video Is Breaking The Internet!
+,0,none,,YouTube,Complete Guide to Machine Learning
+,1,shock_value,Cybersecurity|Machine Learning,YouTube,Top 5 Health Videos You Must Watch!
+,0,none,,YouTube,Cybersecurity Basics for Students
+,1,exaggeration,AI|Students,YouTube,This Students Experiment Shocked Everyone!
+,1,emotional,Web Development|Mobile,YouTube,The Truth About Cybersecurity Finally Revealed!
+,0,none,,YouTube,Health Project Explanation
+,0,none,,YouTube,Complete Guide to Startup
+,0,none,,YouTube,Web Development Project Explanation
+,0,none,,YouTube,Mobile Basics for Students
+,0,none,,YouTube,Finance Demo and Walkthrough
+,0,none,,YouTube,Gaming Basics for Students
+,1,misleading_number,Startup|AI,YouTube,Everyone Is Talking About This Kerala!
+,1,curiosity_gap,Finance|Mobile,YouTube,This Web Development Video Is Breaking The Internet!
+,0,none,,YouTube,Students Basics for Students
+,0,none,,YouTube,Mobile Demo and Walkthrough
+,1,exaggeration,Startup|Web Development,YouTube,I Tried Data Science And THIS Happened!
+,1,curiosity_gap,Python|Kerala,YouTube,You Won't Believe This Health Video!
+,1,exaggeration,Cybersecurity|Gaming,YouTube,I Tried Machine Learning And THIS Happened!
+,1,exaggeration,AI|Python,YouTube,Top 5 Finance Videos You Must Watch!
+,1,emotional,Kerala|Students,YouTube,Top 5 Engineer Videos You Must Watch!
+,0,none,,YouTube,Cybersecurity Analysis with Real Examples
+,1,exaggeration,AI|Technology,YouTube,You Will Regret Missing This AI Video!
+,0,none,,YouTube,Mobile Explained in 10 Minutes
+,1,exaggeration,Gaming|AI,YouTube,You Won't Believe This Data Science Video!
+,0,none,,YouTube,Students Demo and Walkthrough
+,0,none,,YouTube,How AI Works Step by Step
+,0,none,,YouTube,Beginner Friendly Kerala Course
+,1,curiosity_gap,Python|AI,YouTube,This Kerala Experiment Shocked Everyone!
+,1,exaggeration,Data Science|Gaming,YouTube,You Will Regret Missing This Data Science Video!
+,1,exaggeration,Kerala|Machine Learning,YouTube,Everyone Is Talking About This Health!
+,0,none,,YouTube,AI Project Explanation
+,1,misleading_number,Engineer|Machine Learning,YouTube,This Mobile Video Is Breaking The Internet!
+,0,none,,YouTube,Engineer Basics for Students
+,1,exaggeration,Machine Learning|Health,YouTube,The Truth About Mobile Finally Revealed!
+,0,none,,YouTube,Web Development Demo and Walkthrough
+,1,curiosity_gap,Cybersecurity|Startup,YouTube,This Engineer Video Is Breaking The Internet!
+,0,none,,YouTube,Complete Guide to Python
+,0,none,,YouTube,AI Tutorial for Beginners
+,1,misleading_number,AI|Data Science,YouTube,This Finance Experiment Shocked Everyone!
+,1,misleading_number,Data Science|Startup,YouTube,People Are Shocked After Watching This Mobile!
+,0,none,,YouTube,Students Project Explanation
+,1,curiosity_gap,Cybersecurity|Health,YouTube,Top 5 Students Videos You Must Watch!
+,0,none,,YouTube,Kerala Review and Performance Test
+,1,curiosity_gap,Data Science|Machine Learning,YouTube,I Tried Health And THIS Happened!
+,0,none,,YouTube,Engineer Review and Performance Test
+,0,none,,YouTube,How Mobile Works Step by Step
+,0,none,,YouTube,Health Tutorial for Beginners
+,1,emotional,Machine Learning|Startup,YouTube,You Won't Believe This AI Video!
+,0,none,,YouTube,Beginner Friendly Python Course
+,0,none,,YouTube,Technology Review and Performance Test
+,1,emotional,Gaming|Machine Learning,YouTube,This Students Video Is Breaking The Internet!
+,1,exaggeration,Gaming|Students,YouTube,This Cybersecurity Trick Went Viral Overnight!
+,1,misleading_number,Engineer|Technology,YouTube,You Will Regret Missing This Cybersecurity Video!
+,0,none,,YouTube,Complete Guide to Data Science
+,0,none,,YouTube,Technology Analysis with Real Examples
+,1,emotional,Web Development|Students,YouTube,You Won't Believe This Engineer Video!
+,1,curiosity_gap,Students|Web Development,YouTube,Top 5 AI Videos You Must Watch!
+,0,none,,YouTube,Gaming Demo and Walkthrough
+,0,none,,YouTube,Technology Demo and Walkthrough
+,1,curiosity_gap,Machine Learning|Kerala,YouTube,This Finance Video Is Breaking The Internet!
+,0,none,,YouTube,Health Review and Performance Test
+,1,exaggeration,Gaming|Mobile,YouTube,You Won't Believe This Students Video!
+,0,none,,YouTube,Data Science Review and Performance Test
+,1,exaggeration,Gaming|Startup,YouTube,This AI Video Is Breaking The Internet!
+,1,exaggeration,Finance|Data Science,YouTube,The Truth About Python Finally Revealed!
+,0,none,,YouTube,Web Development Basics for Students
+,1,shock_value,Python|Python,YouTube,Top 5 Technology Videos You Must Watch!
+,0,none,,YouTube,Python Demo and Walkthrough
+,0,none,,YouTube,Kerala Basics for Students
+,0,none,,YouTube,Complete Guide to Students
+,1,exaggeration,Engineer|Cybersecurity,YouTube,Top 5 Startup Videos You Must Watch!
+,0,none,,YouTube,Mobile Analysis with Real Examples
+,0,none,,YouTube,Python Project Explanation
+,1,misleading_number,Finance|Startup,YouTube,I Tried Mobile And THIS Happened!
+,1,curiosity_gap,Finance|Technology,YouTube,You Won't Believe This Machine Learning Video!
+,1,shock_value,Kerala|Machine Learning,YouTube,Everyone Is Talking About This Startup!
+,0,none,,YouTube,Complete Guide to Engineer
+,1,emotional,Gaming|Engineer,YouTube,The Truth About Startup Finally Revealed!
+,0,none,,YouTube,Beginner Friendly Cybersecurity Course
+,0,none,,YouTube,Engineer Tutorial for Beginners
+,1,emotional,Web Development|Finance,YouTube,This Machine Learning Experiment Shocked Everyone!
+,0,none,,YouTube,Kerala Project Explanation
+,1,exaggeration,Health|Gaming,YouTube,This Cybersecurity Experiment Shocked Everyone!
+,0,none,,YouTube,Python Explained in 10 Minutes
+,0,none,,YouTube,Finance Explained in 10 Minutes
+,1,curiosity_gap,Python|Kerala,YouTube,I Tried Students And THIS Happened!
+,1,curiosity_gap,Finance|Startup,YouTube,Top 5 Mobile Videos You Must Watch!
+,1,curiosity_gap,Kerala|Health,YouTube,This Gaming Experiment Shocked Everyone!
+,1,shock_value,Finance|Health,YouTube,This Startup Video Is Breaking The Internet!
+,1,emotional,Engineer|Health,YouTube,This Students Trick Went Viral Overnight!
+,1,shock_value,AI|Kerala,YouTube,Everyone Is Talking About This Engineer!
+,0,none,,YouTube,Health Explained in 10 Minutes
+,1,shock_value,Data Science|Students,YouTube,Everyone Is Talking About This Gaming!
+,1,shock_value,Data Science|Gaming,YouTube,You Will Regret Missing This Web Development Video!
+,1,exaggeration,AI|Mobile,YouTube,The Truth About AI Finally Revealed!
+,0,none,,YouTube,Beginner Friendly Health Course
+,0,none,,YouTube,AI Basics for Students
+,1,shock_value,Finance|Machine Learning,YouTube,This Technology Video Is Breaking The Internet!
+,1,exaggeration,Mobile|Data Science,YouTube,People Are Shocked After Watching This Finance!
+,0,none,,YouTube,Data Science Project Explanation
+,1,misleading_number,Technology|Startup,YouTube,I Tried AI And THIS Happened!
+,1,emotional,Finance|Python,YouTube,People Are Shocked After Watching This Startup!
+,0,none,,YouTube,Students Review and Performance Test
+,1,curiosity_gap,Students|Web Development,YouTube,People Are Shocked After Watching This Kerala!
+,1,emotional,Kerala|Students,YouTube,This Data Science Video Is Breaking The Internet!
+,1,curiosity_gap,Machine Learning|Technology,YouTube,People Are Shocked After Watching This Cybersecurity!
+,0,none,,YouTube,Gaming Explained in 10 Minutes
+,1,misleading_number,AI|Machine Learning,YouTube,This Engineer Trick Went Viral Overnight!
+,1,exaggeration,Web Development|Data Science,YouTube,I Tried Startup And THIS Happened!
+,0,none,,YouTube,Mobile Review and Performance Test
+,0,none,,YouTube,Technology Tutorial for Beginners
+,1,exaggeration,Data Science|Mobile,YouTube,I Tried Engineer And THIS Happened!
+,0,none,,YouTube,Technology Basics for Students
+,0,none,,YouTube,Beginner Friendly Data Science Course
+,0,none,,YouTube,Engineer Explained in 10 Minutes
+,0,none,,YouTube,Technology Explained in 10 Minutes
+,1,shock_value,Data Science|Data Science,YouTube,Top 5 Kerala Videos You Must Watch!
+,0,none,,YouTube,Kerala Explained in 10 Minutes
+,1,exaggeration,Cybersecurity|AI,YouTube,You Won't Believe This Gaming Video!
+,0,none,,YouTube,How Cybersecurity Works Step by Step
