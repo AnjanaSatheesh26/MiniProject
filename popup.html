@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Clickbait Detector</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- ================================================================
+       POPUP.HTML — Extension popup UI
+       ================================================================
+       Displayed when user clicks the extension icon.
+       Shows:
+         - Extension toggle (enable/disable)
+         - Current page statistics
+         - List of detected clickbait headlines
+         - Explanation (LIME word scores) for each headline
+         - Privacy assurance note
+       ================================================================ -->
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-left">
+      <div class="logo">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="10"/>
+          <line x1="12" y1="8" x2="12" y2="12"/>
+          <line x1="12" y1="16" x2="12.01" y2="16"/>
+        </svg>
+      </div>
+      <div>
+        <h1 class="title">Clickbait Detector</h1>
+        <p class="subtitle">AI-powered • 100% local • Private</p>
+      </div>
+    </div>
+
+    <!-- Enable/Disable toggle -->
+    <div class="toggle-wrapper">
+      <label class="toggle" title="Enable or disable clickbait detection">
+        <input type="checkbox" id="enabledToggle" checked />
+        <span class="toggle-slider"></span>
+      </label>
+    </div>
+  </header>
+
+  <!-- Stats Bar -->
+  <section class="stats-bar">
+    <div class="stat">
+      <span class="stat-value" id="statTotal">0</span>
+      <span class="stat-label">Analyzed</span>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat">
+      <span class="stat-value clickbait-red" id="statClickbait">0</span>
+      <span class="stat-label">Clickbait</span>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat">
+      <span class="stat-value safe-green" id="statSafe">0</span>
+      <span class="stat-label">Safe</span>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat">
+      <span class="stat-value" id="statRate">—</span>
+      <span class="stat-label">CB Rate</span>
+    </div>
+  </section>
+
+  <!-- Page Results Section -->
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title">This Page</h2>
+      <button class="btn-rescan" id="rescanBtn" title="Re-scan current page">↻ Rescan</button>
+    </div>
+
+    <!-- Loading state -->
+    <div id="loadingState" class="loading-state hidden">
+      <div class="spinner"></div>
+      <span>Analyzing headlines locally…</span>
+    </div>
+
+    <!-- Empty state -->
+    <div id="emptyState" class="empty-state">
+      <div class="empty-icon">🔍</div>
+      <p>No headlines found on this page yet.</p>
+      <p class="muted">Try navigating to a news website.</p>
+    </div>
+
+    <!-- Results list -->
+    <div id="resultsList" class="results-list hidden"></div>
+  </section>
+
+  <!-- Explanation Panel (shown when a result is clicked) -->
+  <div id="explanationPanel" class="explanation-panel hidden">
+    <div class="explanation-header">
+      <span class="explanation-title">Word Attribution</span>
+      <button id="closeExplanation" class="btn-close">✕</button>
+    </div>
+    <p class="explanation-subtitle muted">
+      Words highlighted below influenced this prediction most.
+    </p>
+    <div id="explanationHeadline" class="explanation-headline"></div>
+    <div id="wordLegend" class="word-legend">
+      <div class="legend-item">
+        <span class="legend-dot red"></span>
+        <span>→ clickbait signal</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-dot blue"></span>
+        <span>→ non-clickbait signal</span>
+      </div>
+    </div>
+    <div id="explanationWords" class="explanation-words"></div>
+  </div>
+
+  <!-- Privacy Note -->
+  <footer class="footer">
+    <div class="privacy-note">
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+      </svg>
+      <span>All inference runs locally. No data leaves your browser.</span>
+    </div>
+    <div class="model-note muted">Model: DistilBERT + CNN · Explanations: LIME</div>
+  </footer>
+
+  <script src="popup.js"></script>
+</body>
+</html>
