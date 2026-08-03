@@ -12,20 +12,18 @@ Clickbait headlines manipulate user curiosity and often lead to misinformation o
 
 ## 🚀 Key Features
 - Real-time clickbait detection in the browser  
-- Works on YouTube, news sites, blogs, and social media feeds  
+- Works on news sites, blogs, and social media feeds  
 - Clickbait probability score (e.g., 97% Clickbait)  
 - Highlighting of suspicious words and phrases  
 - Visual explanation of model decisions  
 - Fully client-side processing for user privacy  
 
 ## 🧠 Models Used
-- BERT / DistilBERT for headline classification  
-- Lightweight CNN/RNN (optional for performance comparison)  
+- DistilBERT for headline classification 
 
 ## 🔍 Explainability Techniques (XAI)
 The system integrates multiple explainability methods to make predictions transparent:
-- *LIME* – highlights influential words affecting classification  
-- *SHAP* – shows feature contribution scores  
+- *LIME* – highlights influential words affecting classification   
 - *Attention Heatmaps* – visualizes model focus on specific phrases  
 
 Example:
@@ -69,8 +67,8 @@ This makes it suitable for an academic mini project and a potential research pub
 - Python (Model Training)  
 - Transformers (Hugging Face)  
 - JavaScript / TypeScript  
-- Chrome / Firefox Extension APIs  
-- LIME / SHAP  
+- Chrome Extension APIs  
+- LIME  
 
 ## 📚 Future Enhancements
 - Multilingual clickbait detection  
