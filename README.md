@@ -1,4 +1,4 @@
-# MiniProject
+# Explainable Clickbait Detection
 Mini project:Clickbait extension
 ## Clickbait Detection Browser Extension with Explainable AI
 
